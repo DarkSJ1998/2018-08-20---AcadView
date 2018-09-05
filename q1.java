@@ -1,3 +1,12 @@
+/*
+Q1. Write a Java program to print the following pattern : 
+*****
+****
+***
+**
+*
+*/
+
 class q1
 {
 	public static void main(String[] s)
