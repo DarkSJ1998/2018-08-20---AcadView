@@ -1,3 +1,7 @@
+/*
+Q6. Given the array A = {1,1,1,1,0,0,1,0}. Sort it in ascending order as {0,0,0,1,1,1,1,1} in least computation.
+*/
+
 class q6
 {
 	public static void main(String[] args)
