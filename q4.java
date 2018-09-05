@@ -1,3 +1,7 @@
+/*
+Q4. Take a number N as input from the user and check if the given number is armstrong or not.
+*/
+
 import java.util.Scanner;
 class q4
 {
