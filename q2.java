@@ -1,3 +1,7 @@
+/*
+Q2. Take a number N from the user as input and find all even numbers upto N.
+*/
+
 import java.util.Scanner;
 class q2
 {
