@@ -1,3 +1,7 @@
+/*
+Q3. Take a number N from the user as input and find all prime numbers upto N.
+*/
+
 import java.util.Scanner;
 class q3
 {
