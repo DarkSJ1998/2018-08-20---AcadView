@@ -1,3 +1,7 @@
+/*
+Q5. Take a number N from the user and print its reverse.
+*/
+
 import java.util.Scanner;
 class q5
 {
