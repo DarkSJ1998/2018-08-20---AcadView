@@ -1,3 +1,8 @@
+/*
+Q7. Given a sorted array A = {1,4,6,7,8,9,10}.
+Write a program to take a Number N from the user and check if it is in the array or not in least computation.
+*/
+
 import java.util.Scanner;
 class q7
 {
